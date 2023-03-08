@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "posit-streamlit-demo-app"
+  },
+  "python": {
+    "version": "3.10.0",
+    "package_manager": {
+      "name": "pip",
+      "version": "23.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "bee6dd469c4d55db15e42f95fbd25350"
+    },
+    "posit-streamlit-demo-app.py": {
+      "checksum": "6c52d5ab220a55c7f0339218c34e8138"
+    }
+  }
+}
